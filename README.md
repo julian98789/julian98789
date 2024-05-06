@@ -8,7 +8,7 @@
     <summary><h1 style="display: inline-block">💾 Welcome to my GitHub! 💡</h1></summary>
   </ul>
 </div>
-
+---
 <!--- snake -->
 
 <p align="center">
