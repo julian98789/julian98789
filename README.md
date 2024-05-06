@@ -5,17 +5,17 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Julian</h1></summary>
+    <summary><h1 style="display: inline-block">💾 Welcome to my GitHub! 💡</h1></summary>
   </ul>
 </div>
 
 <!--- snake -->
---
+
 <p align="center">
   <img src="https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563" alt="readgif">
 </p>
 
-<hr style="border-top: 0.5px ">
+<hr style="border-top: 0.5px solid #ccc;">
 
 <p align="center">
   "Nobody knows everything, everybody knows something, and together we know a lot."
