@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-![readgif](https://github.com/julian98789/julian98789/assets/132085190/a6c28741-7439-459c-be99-c1002ae90f99)
+![Imagen](readgif.gif)
 </a>
 </div>
 
