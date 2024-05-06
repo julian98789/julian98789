@@ -11,7 +11,9 @@
 
 <!--- snake -->
 
-![readgif](https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563)
+<p align="center">
+  <img src="https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563" alt="readgif">
+</p>
 
 
 
