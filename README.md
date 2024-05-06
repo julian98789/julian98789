@@ -9,6 +9,7 @@
   </ul>
 </div>
 
+![linkedin](https://github.com/julian98789/julian98789/assets/132085190/afbd3a85-565b-4f69-9ed0-9783b173440e)
 
 <!--- snake -->
 <div align="center">
