@@ -18,7 +18,10 @@
 <hr style="border-top: 1px solid #ccc;">
 
 <p align="center">
-  "Nobody knows everything, everybody knows something, and together we know a lot."  
+  "Nobody knows everything, everybody knows something, and together we know a lot."
+</p>
+
+<p align="center">
   "Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
 </p>
 
