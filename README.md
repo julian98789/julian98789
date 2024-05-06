@@ -16,17 +16,12 @@
 </p>
 
 ---
+<hr style="border-top: 1px solid #ccc;">
 
-"Nobody knows everything, everybody knows something, and together we know a lot."  
-"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-"Nobody knows everything, everybody knows something, and together we know a lot."
-"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
-</div>
-
+<p align="justify">
+  "Nobody knows everything, everybody knows something, and together we know a lot."  
+  "Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
+</p>
 
 
 
