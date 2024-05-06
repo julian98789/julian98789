@@ -15,10 +15,9 @@
   <img src="https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563" alt="readgif">
 </p>
 
----
 <hr style="border-top: 1px solid #ccc;">
 
-<p align="justify">
+<p align="center">
   "Nobody knows everything, everybody knows something, and together we know a lot."  
   "Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
 </p>
