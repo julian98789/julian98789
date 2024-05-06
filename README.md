@@ -9,13 +9,11 @@
   </ul>
 </div>
 
-![linkedin](https://github.com/julian98789/julian98789/assets/132085190/afbd3a85-565b-4f69-9ed0-9783b173440e)
-
 <!--- snake -->
-<div align="center">
+
 ![readgif](https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563)
 
-</div>
+
 
 
 <!--h2 without bottom border-->
