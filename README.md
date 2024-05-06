@@ -12,10 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-![readgif](https://github.com/julian98789/julian98789/assets/132085190/134c3ebd-d388-4b6b-ad93-35e2511d2ce7)
+![readgif](https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563)
 
-
-</a>
 </div>
 
 
