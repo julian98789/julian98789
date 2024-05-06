@@ -12,7 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-![Imagen](readgif.gif)
+![Texto alternativo](readgif.gif)
+
 </a>
 </div>
 
