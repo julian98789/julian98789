@@ -15,19 +15,20 @@
   <img src="https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563" alt="readgif">
 </p>
 
+---
 
+"Nobody knows everything, everybody knows something, and together we know a lot."  
+"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+"Nobody knows everything, everybody knows something, and together we know a lot."
+"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
 </div>
 
 
-"Nobody knows everything, everybody knows something, and together we know a lot."
-"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."
+
 
 
 
