@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,tailwind,vscode,spring,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nextjs,nodejs,tailwind,java,spring,mongodb,mysql,postgresql,postman,vscode" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,ts" />
+    <img src="https://skillicons.dev/icons?i=py,docker,ts,aws" />
   </a>
 </p>
 
