@@ -44,7 +44,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,docker,ts,aws" />
+    <img src="https://skillicons.dev/icons?i=py,docker,ts,aws,angular" />
   </a>
 </p>
 
